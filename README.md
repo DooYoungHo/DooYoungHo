@@ -1,6 +1,9 @@
 Doo YoungHo
 =============
 
+🐯첫 시작
+---------
+## 26살에 개발자에 발돋움 했습니다
 <!--
 **DooYoungHo/DooYoungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
