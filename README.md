@@ -15,7 +15,7 @@ Doo YoungHo
 <br><br>
 💁‍♂️개발도구 및 언어
 -----------
-###### MySQL, Arduino, STM32, VsCode, Python, C
+###### MySQL, Arduino, STM32, VsCode, Python, C, C#
 <!--
 **DooYoungHo/DooYoungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
