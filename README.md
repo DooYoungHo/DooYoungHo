@@ -12,6 +12,10 @@ Doo YoungHo
 🔥목표
 -------
 ###### 완벽하고 신뢰성 높은 임베디드 시스템을 구축하는 것이 목표이며, 더 나아가 농업에 혁신을 이끌고 싶습니다
+<br><br>
+💁‍♂️사용언어
+-----------
+###### *Python
 <!--
 **DooYoungHo/DooYoungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
