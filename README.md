@@ -7,15 +7,15 @@ Doo YoungHo
 <br><br>
 🧑‍💻프로젝트
 ----------
-###### 직업학교에 다니며 C#, Python으로 ERP, 키오스크, 주차관리 시스템 등 여러 프로젝트를 진행했으며, 현재는 임베디드 개발자로서 IoT 및 R&D프로젝트에 참여중입니다
+###### 직업학교에 다니며 C#, Python으로 ERP, 키오스크, 주차관리 시스템 등 여러 프로젝트를 진행했으며, 현재는 사이버대학을 병행하며 임베디드 개발자로서 IoT 및 R&D프로젝트에 참여중입니다
 <br><br>
 🔥목표
 -------
-###### 완벽하고 신뢰성 높은 임베디드 시스템을 구축하는 것이 목표이며, 더 나아가 농업에 혁신을 이끌고 싶습니다
+###### 많은 지식을 쌓아 미래에 경력이 쌓였을 때 누군가에게 도움이 되는 개발자가 되고 싶습니다
 <br><br>
 💁‍♂️개발도구 및 언어
 -----------
-###### MySQL, Arduino, STM32, VsCode, Python, C, C#
+###### MySQL, Arduino, STM32, VsCode, VsCodeStudio, Python, C, C#
 <!--
 **DooYoungHo/DooYoungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
