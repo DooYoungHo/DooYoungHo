@@ -7,7 +7,8 @@ Doo YoungHo
 <br><br>
 🧑‍💻프로젝트
 ----------
-###### 직업학교에 다니며 C#, Python으로 ERP, 키오스크, 주차관리 시스템 등 여러 프로젝트를 진행했으며, 현재는 사이버대학을 병행하며 임베디드 개발자로서 IoT 및 R&D프로젝트에 참여중입니다
+###### 직업학교에 다니며 C#, Python으로 ERP, 키오스크, 주차관리 시스템 등 여러 프로젝트를 진행했으며, 사이버대학을 병행하며 임베디드 개발자로서 IoT 및 R&D프로젝트에 참여했습니다</br>
+###### 현재는 NHN Academy에 다니며 백엔드 개발자로 거듭나기 위한 학습을 진행하고 있습니다.
 <br><br>
 🔥목표
 -------
@@ -15,7 +16,7 @@ Doo YoungHo
 <br><br>
 💁‍♂️개발도구 및 언어
 -----------
-###### Framework - MySQL, Arduino, STM32, VsCode, VsCodeStudio, IntelliJ
+###### Framework - Spring Boot, MySQL, Arduino, STM32, VsCode, VsCodeStudio, IntelliJ
 ###### Language - Python, C, C#, JAVA
 <!--
 **DooYoungHo/DooYoungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
