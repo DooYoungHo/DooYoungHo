@@ -38,6 +38,4 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/farms/DooYoungHo"/>
 </a>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/DooYoungHo?pet-id=2" width="1000" height="120"/>
-</a>
+
